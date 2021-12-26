@@ -1,0 +1,43 @@
+.card-item{
+    background-color: #fff;
+    width: 215px;
+    border-radius: 4px;
+    padding: 6px 6px;
+    margin: 0;
+    margin: auto;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(143, 143, 143);
+    cursor: pointer;
+}
+
+.change{
+   margin-left: 10px;
+   
+}
+
+.change-input{
+    border: none;
+    width: 215px;
+    border-radius: 4px;
+    padding: 6px 6px;
+    margin: 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(143, 143, 143);
+}
+
+.change-button__change{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(12, 88, 231);
+    color: #fff;
+    padding: 10px 15px;
+    margin: 5px 5px 0 0;
+    cursor: pointer;
+}
+
+.change-button__back{
+    border: none;
+    background: none;
+    font-size: 25px;
+    cursor: pointer;
+}

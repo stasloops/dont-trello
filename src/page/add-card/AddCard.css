@@ -1,0 +1,40 @@
+.card-add__card-item{
+    padding: 0 0 15px 15px;
+    color: rgb(65, 65, 65);
+    font-weight: 500;
+    background-color: rgba(255, 247, 247, 0.637);
+    height: 100%;
+    width: 250px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.card-add__card__add{
+    cursor: pointer;
+}
+
+.card-add__card-item__input{
+    border: none;
+    border-bottom: 1px solid rgb(119, 119, 119);
+    border-radius: 3px;
+    width: 220px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+.card-add__card-item__button-add{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(12, 88, 231);
+    color: #fff;
+    padding: 10px 15px;
+    margin: 5px 5px 0 0;
+    cursor: pointer;
+}
+
+.card-add__card-item__button-del{
+    border: none;
+    background: none;
+    font-size: 25px;
+    cursor: pointer;
+}

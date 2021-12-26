@@ -1,0 +1,11 @@
+.card-item{
+    display: flex;
+    
+}
+
+.card-item__del{
+    color: rgba(255, 0, 0, 0.288);
+    position: absolute;
+    transform: translate(1650%, 0);
+    font-size: 20px;
+}
