@@ -3,7 +3,6 @@ import CardItem from '../card-item/CardItem';
 import './CardsItem.css'
 
 const CardsItem = ({newValue, removeItem}) => {
-    console.log(newValue);
     return (<>
           {
         newValue ?

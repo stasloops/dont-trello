@@ -6,10 +6,7 @@ import { useSelector } from 'react-redux';
 
 const Cards = () => {
     const card = useSelector(state => state.card.cardState)
-   
-   
     const last = card[card.length - 1 ]
-    console.log(last);
     return (
         <section className='cards'>
             {
